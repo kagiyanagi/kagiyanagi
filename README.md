@@ -1,3 +1,5 @@
-# Hi there. ヾ(＾∇＾)
+## Hi there. ヾ(＾∇＾)
 
-``I’m a self-taught engineer and a tech enthusiast from India, currently studying in high school. I like to do opensource and making stuff which helps people. I might not be greatest programmer right now but I am always dedicated to learn more.``
+``I’m a self-taught engineer and tech lover from India, still in high school.
+I enjoy open source and love building things that help others.
+I know I’m not the best coder yet, but I’m always eager to keep learning.``
