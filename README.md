@@ -1,4 +1,4 @@
-## Hi there. ヾ(＾∇＾)
+## Hi there.
 
 ``I’m a self-taught engineer and tech lover from India, still in high school.
 I enjoy open source and love building things that help others.
